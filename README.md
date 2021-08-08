@@ -7,8 +7,8 @@
 На тестирование затрачено: 1час
 
 В результате тестирования выявлены следующие дефекты:
-* [Валидные номера не проходят валидацию](https://github.com/JaneGame/HomeWorkJava1.2/issues/1)
-* [Невалидный номер прошел валидацию](https://github.com/JaneGame/HomeWorkJava1.2/issues/2)
+* [Валидные ключи не проходят валидацию](https://github.com/JaneGame/HomeWorkJava1.2/issues/1)
+* [Невалидный ключ прошел валидацию](https://github.com/JaneGame/HomeWorkJava1.2/issues/2)
 
 ## Описание процесса тестирования
 
