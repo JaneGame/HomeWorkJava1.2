@@ -7,12 +7,12 @@
 На тестирование затрачено: 1час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/JaneGame/HomeWorkJava1.2/issues/1
-* https://github.com/JaneGame/HomeWorkJava1.2/issues/2
+* [Валидные номера не проходят валидацию](https://github.com/JaneGame/HomeWorkJava1.2/issues/1)
+* [Невалидный номер прошел валидацию](https://github.com/JaneGame/HomeWorkJava1.2/issues/2)
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
+В качестве тестовых данных использовались данные из [Руководства использования](user-manual.md):
 * Валидные ключи из перечня должны валидироваться
 * Невалидные ключи из перечня валидироваться не должны
 
